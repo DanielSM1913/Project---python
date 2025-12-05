@@ -1,0 +1,3 @@
+#Requirements
+
+#This project relies on two primary Python libraries essential for data analysis and visualization: pandas, which was used to clean, manipulate, and analyze the cyberattack dataset, and matplotlib, which was used to generate visual representations of attack trends, resolution times, and financial impacts throughout the notebook.
